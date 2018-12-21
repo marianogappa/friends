@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Friends</string>
+    <string name="main_notification_channel_name">Main Notification Channel</string>
+    <string name="action_settings">Settings</string>
+</resources>
